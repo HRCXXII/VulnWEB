@@ -18,7 +18,7 @@ read -p "Masukan Nomor Pilihan :" HRCXXII
 case $HRCXXII in
 1)
 clear
-figlet ZK1 |lolcat
+figlet HRCXXII |lolcat
 sh vulnweb.sh
 ;;
 2)
