@@ -29,9 +29,9 @@ echo "\33[31;1mhttp://mpark.co.za"
 echo
 echo "\33[0;32mKetik 9 Untuk Keluar"
 
-read -p "Masukan Pilihan Anda :" roniyt
+read -p "Masukan Pilihan Anda :" HRCXXII
 
-case $roniyt in
+case $HRCXXII in
 9)
 clear
 echo "\33[31;1mTerimakasih Ya Udah Gunakan Tool Saya"
